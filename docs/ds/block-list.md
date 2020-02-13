@@ -31,10 +31,6 @@ struct node {
 
 其实不然，把 $\sqrt{n}$ 设置为一个定值即可。比如题目给的范围是 $10^6$ ，那么 $\sqrt{n}$ 就设置为大小为 $10^3$ 的常量，不用更改它。
 
-```cpp
-list<vector<char> > orz_list;
-```
-
 ## 例题
 
 Big String POJ - 2887
